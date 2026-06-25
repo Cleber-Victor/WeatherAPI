@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Cleber-Victor/WeatherAPI/issues"
   },
-  "homepage": "https://github.com/Cleber-Victor/WeatherAPI#readme"
+  "homepage": "https://github.com/Cleber-Victor/WeatherAPI#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "ioredis": "^5.11.1"
+  }
 }
